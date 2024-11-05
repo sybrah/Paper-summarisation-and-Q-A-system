@@ -9,6 +9,10 @@ The project is designed to support users in managing, exploring, and learning fr
 3. Enabling a Q&A chatbot for document-specific inquiries.
 4. Recommending relevant documents based on the user's interests and question themes.
 
+## Project Demo
+
+[Watch the video](C:/Users/brahe/Downloads/DEMO.mp4)
+
 ### Technologies Used
 - **Sentence-BERT** for embedding generation
 - **ChromaDB** for vector storage and similarity search
