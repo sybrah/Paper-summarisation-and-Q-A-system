@@ -11,7 +11,7 @@ The project is designed to support users in managing, exploring, and learning fr
 
 ## Project Demo
 
-[Watch the video](C:/Users/brahe/Downloads/DEMO.mp4)
+[Watch the video](C:\Users\brahe\Downloads\DEMO.mp4)
 
 ### Technologies Used
 - **Sentence-BERT** for embedding generation
